@@ -1,0 +1,14 @@
+{
+  "name": "nokos-auto-order-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.5",
+    "dotenv": "^16.4.1",
+    "fs-extra": "^11.2.0"
+  }
+}
